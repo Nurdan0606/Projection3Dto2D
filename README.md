@@ -2,5 +2,5 @@
 Just pygame code that shows projection of 3d cube in 2d
 
 To run:
-1) pip install -r requitements.exe
+1) pip install -r requitements.txt
 2) run main.py
